@@ -24,11 +24,11 @@ const ChatSection = () => {
       <InputSection />
       <div className={styles["warning-text"]}>
         <p>
-          Gemini may display inaccurate info, including about people, so
-          double-check its responses.
+           nikki.ai may display innacurate content please contact us through luxeenet@gmail.com
+    
           <span>
-            <a href="https://support.google.com/gemini?p=privacy_notice">
-              Your privacy & Gemini Apps
+            <a href="https://nikki.ai">
+              our privacy policy 
             </a>
           </span>
         </p>

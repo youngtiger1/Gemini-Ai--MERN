@@ -4,8 +4,8 @@
   "display": "standalone",
   "scope": "https://geminichatai.netlify.app",
   "start_url": "https://geminichatai.netlify.app",
-  "name": "Gemini Ai",
-  "short_name": "Gemini AI",
+  "name": "nikki.ai",
+  "short_name": "nikki.ai",
   "description": "Revolutionize your online interactions with our web app \u2013 a stellar clone of Google Gemini Chat AI. Seamlessly blending cutting-edge technology with a sleek interface, our application provides users with an immersive conversational experience. Engage in natural language conversations, access advanced language models, and enjoy the power of interactive communication. Elevate your online interactions with our user-friendly and feature-rich AI-powered chat application.",
   "icons": [
     {

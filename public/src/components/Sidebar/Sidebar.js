@@ -147,7 +147,7 @@ const Sidebar = () => {
         {isSidebarLong && (
           <div className={styles["upgrade-gimini"]}>
             <img src={commonIcon.advanceGeminiIcon} alt="gemini-logo"></img>
-            <p>Upgrade to Gemini Advanced</p>
+            <p>Upgrade to nikki.ai stable 1</p>
           </div>
         )}
         <div className={styles["location"]} onClick={updateLocationHandler}>

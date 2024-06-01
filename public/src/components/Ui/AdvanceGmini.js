@@ -25,13 +25,13 @@ const AdvanceGemini = () => {
 
       <div className={styles["gemini"]} onClick={newChatHandler}>
         <img src={commonIcon.geminiIcon} alt="gemini icon"></img>
-        <p>Gemini</p>
+        <p>nikki.ai</p>
         <img src={icon.okIcon} alt="ok icon"></img>
       </div>
 
       <div className={styles["advance-gemini"]}>
         <img src={commonIcon.advanceGeminiIcon} alt="advance gemini"></img>
-        <p>Gemini Advance</p>
+        <p>nikki.ai stable 1</p>
         <button>Upgrade</button>
       </div>
     </div>
